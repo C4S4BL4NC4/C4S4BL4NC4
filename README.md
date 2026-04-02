@@ -1,3 +1,24 @@
-# 👋 Hey, I'm C4S4BL4NC4  
+# Hi, I’m C4S4BL4NC4
 
-Self-taught coder 🌱 | Currently messing around with JS, MongoDB, and Mongoose | And I merely exist and know nothing about anything.
+I build projects with **JavaScript** and **TypeScript**.  
+Currently working with **Java**.
+
+## Projects
+### TypeScript
+- **nestjs-task-management** — NestJS task management API.  
+  Repo: https://github.com/C4S4BL4NC4/nestjs-task-management
+- **nestjs-cupid-api** — NestJS API project.  
+  Repo: https://github.com/C4S4BL4NC4/nestjs-cupid-api
+- **learn-typescript** — TypeScript learning/practice repo.  
+  Repo: https://github.com/C4S4BL4NC4/learn-typescript
+
+### JavaScript
+- **natours-express-api** — REST API with Node.js, Express, MongoDB, and Mongoose.  
+  Repo: https://github.com/C4S4BL4NC4/natours-express-api
+- **javascript-bot** — JavaScript bot project.  
+  Repo: https://github.com/C4S4BL4NC4/javascript-bot
+- **DrumKit** — JavaScript practice project.  
+  Repo: https://github.com/C4S4BL4NC4/DrumKit
+
+## Current focus
+- **Java** (practice): https://github.com/C4S4BL4NC4/learn-java
