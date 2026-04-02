@@ -22,3 +22,7 @@ Currently working with **Java**.
 
 ## Current focus
 - **Java** (practice): https://github.com/C4S4BL4NC4/learn-java
+
+## Contact me
+- **Telegram**: @War1939
+- **Twitter**: @onionsnpotatos
